@@ -2,7 +2,6 @@
 
 # `> Manya Sachdeva`
 ### AI/ML · GenAI · NLP · Data Science
-`B.Tech CSE @ Bennett University` · `CGPA 9.23` · `Dean's List`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Built+RAG+systems+scoring+0.91+Faithfulness+%F0%9F%A7%A0;Forecasted+finances+with+%7E7.8%25+MAPE+%F0%9F%92%B9;Ranked+33+%2F+600%2B+at+national+hackathon+%E2%9A%A1;Open+to+internships+%26+research+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
