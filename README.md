@@ -1,44 +1,122 @@
-<div align="center">
+# 👋 Hi, I'm Manya Sachdeva
 
-# `> Manya Sachdeva`
-### AI/ML · GenAI · NLP · Data Science
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Built+RAG+systems+scoring+0.91+Faithfulness+%F0%9F%A7%A0;Forecasted+finances+with+%7E7.8%25+MAPE+%F0%9F%92%B9;Ranked+33+%2F+600%2B+at+national+hackathon+%E2%9A%A1;Open+to+internships+%26+research+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-</div>
+🎓 B.Tech CSE @ Bennett University (CGPA: 9.23)
+🤖 AI/ML Engineer | RAG Systems | NLP | FastAPI
+📍 India
 
 ---
 
-## ⚡ TL;DR — What I've built
+## 🚀 What I Do
 
-| 🔬 Project | Stack | Result |
-|---|---|---|
-| **[Nova](https://github.com/manyasachdeva27/Nova-AI-Research-Assistant)** — RAG Research Assistant | LangChain · FAISS · Llama-3.3-70b · Groq | Faithfulness **0.91** · Relevancy **0.94** |
-| **Finsage** — AI Financial Assistant | XGBoost · Prophet · Gemini API · Streamlit | MAPE **~7.8%** on 4k+ transactions |
-| **[Insurance Risk API](https://github.com/manyasachdeva27/Insurance-Premium-Prediction)** — Live prediction endpoint | FastAPI · Random Forest · Scikit-learn | Real-time risk scoring with confidence % |
-| **Supply Chain Forecaster** *(Research)* | Gradient Boosting · EOQ · Carbon constraints | MAPE **~14%** over 12-week horizon |
+I build **production-ready AI systems** that go beyond notebooks—focused on real-world impact, scalability, and measurable performance.
 
----
-
-## 🧰 Stack at a glance
-
-`Python` `LangChain` `FAISS` `XGBoost` `FastAPI` `Streamlit` `Docker` `HuggingFace` `BERT` `SQL` `C++`
+* 🧠 RAG-based AI assistants with high factual accuracy
+* 📊 ML models with strong evaluation metrics (MAPE, RAGAS)
+* ⚡ Backend systems using FastAPI + real-time inference
+* 📈 Data-driven solutions for finance, research, and supply chain
 
 ---
 
-## 🏅 Highlights
+## 🧩 Featured Projects
 
-- 🥇 **Rank 33 / 600+ teams** — Smart BU Hackathon
-- 🌟 **10/10 SGPA** — Dean's List, Bennett University  
-- 💼 **Business Analyst Intern** @ Centilytics — led PRD for Travel Dil Se, benchmarked 9+ CRM/cloud platforms
-- 📄 **2 research papers** in progress — NLP & Supply Chain AI
+### 🔍 Nova – AI Research Assistant
+
+> A production-grade RAG system for research discovery and synthesis
+
+* Built using **LangChain + FAISS + Llama-3.3-70B**
+* Retrieves and generates **context-aware, cited responses**
+* 📊 Achieved:
+
+  * Faithfulness: **0.91**
+  * Answer Relevancy: **0.94**
+* 🔎 Integrated **ArXiv search** for academic exploration
+
+👉 [View Project](https://github.com/manyasachdeva27)
 
 ---
 
-<div align="center">
+### 💰 Finsage – AI Financial Assistant
 
-[![Email](https://img.shields.io/badge/Gmail-sachdevamanya92%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sachdevamanya92@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/manyasachdeva27)
-![Views](https://komarev.com/ghpvc/?username=manyasachdeva27&color=a78bfa&style=flat-square&label=Profile+Views)
+> End-to-end ML system for personal finance forecasting & insights
 
-</div>
+* Forecasting using **XGBoost + Prophet**
+* 📊 Achieved **~7.8% MAPE** with walk-forward validation
+* 🚨 Anomaly detection using Isolation Forest
+* 🤖 Integrated AI chatbot for financial insights
+
+👉 [View Project](https://github.com/manyasachdeva27)
+
+---
+
+### 🏥 Insurance Risk Prediction API
+
+> Real-time ML inference system deployed via FastAPI
+
+* Random Forest model predicting **risk categories + confidence scores**
+* ⚡ REST API for real-time predictions
+* 🖥 Interactive Streamlit interface
+
+👉 [View Project](https://github.com/manyasachdeva27)
+
+---
+
+### 📦 Demand Forecasting + Supply Chain Optimization
+
+> ML-powered inventory optimization under real-world constraints
+
+* Forecasted 12-week demand using **Gradient Boosting**
+* 📊 Achieved **~14% MAPE**
+* Integrated with **EOQ optimization + carbon constraints**
+
+👉 [View Project](https://github.com/manyasachdeva27)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, SQL, C++, JavaScript
+**ML/AI:** Scikit-learn, XGBoost, Prophet, NLP, RAG, LLMs
+**Frameworks:** FastAPI, Streamlit, LangChain
+**Tools:** FAISS, Docker, Hugging Face
+
+---
+
+## 📈 What Makes My Work Different
+
+* 📊 I focus on **metrics that matter** (MAPE, RAGAS scores)
+* ⚙️ I build **end-to-end systems**, not just models
+* 🧪 I validate models with **real-world evaluation strategies**
+* 🚀 I prioritize **deployment + usability**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manyasachdeva27\&show_icons=true)
+
+---
+
+## 🎯 Currently Exploring
+
+* Advanced RAG architectures
+* LLM evaluation & hallucination reduction
+* AI agents & autonomous workflows
+
+---
+
+## 💼 Open To
+
+* AI/ML Internships
+* Backend Engineering (FastAPI)
+* GenAI / LLM-based roles
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/manyasachdeva27/
+* 📧 Email: [sachdevamanya92@gmail.com](mailto:sachdevamanya92@gmail.com)
+
+---
+
+⭐ *If you find my work interesting, feel free to explore my repositories and connect!*
