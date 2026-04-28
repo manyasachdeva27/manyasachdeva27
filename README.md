@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=I+turn+coffee+into+AI+systems+%E2%98%95%EF%B8%8F;Teaching+LLMs+to+be+less+confused+%F0%9F%A4%96;I+debug+models+more+than+my+life+%F0%9F%98%82;If+it+doesn%E2%80%99t+deploy%2C+it+doesn%E2%80%99t+count+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=I+turn+coffee+into+AI+systems;Teaching+LLMs+to+be+less+confused;I+debug+models+more+than+my+life)](https://git.io/typing-svg)
 
 <br/>
 
@@ -171,7 +171,8 @@ I'm always open to:
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-sachdevamanya92%40gmail.com-D14836?style=for-the-badge)](mailto:sachdevamanya92@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-Manya_Sachdeva-0077B5?style=for-the-badge)](https://linkedin.com/in/manyasachdeva27)
 
-*"The best AI is the one that ships."*
+*"" ...miles to go before I sleep "
+-Robert Frost"*
 
 </div>
 
