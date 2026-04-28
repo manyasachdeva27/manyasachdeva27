@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manya_Sachdeva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manyasachdeva27)
 [![GitHub](https://img.shields.io/badge/GitHub-manyasachdeva27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manyasachdeva27)
 
-
 </div>
 
 ---
@@ -26,7 +25,6 @@ class Manya(AIEngineer):
         self.name        = "Manya Sachdeva"
         self.university  = "Bennett University, Greater Noida"
         self.degree      = "B.Tech Computer Science & Engineering"
-    
 
     @property
     def superpower(self):
@@ -52,7 +50,7 @@ class Manya(AIEngineer):
 
 ---
 
-## 🚀 Projects 
+## 🚀 Projects
 
 <table>
 <tr>
@@ -79,13 +77,21 @@ Nova ingests PDFs & URLs, semantically chunks them, retrieves the most relevant 
 > *"Your bank statement has stories. Finsage reads them."*
 
 Built on **4,000+ real transactions**, Finsage forecasts your income and expenses, spots anomalies before they hurt you, and lets you chat with your own financial data in real time.
+
 **Stack:** `XGBoost` `Prophet` `Gemini API` `Streamlit` `Isolation Forest`
 
-[![Repo](https://img.shields.io/badge/View_Repo-Insurance_Predictor-a78bfa?style=flat-square&logo=github)]([https://github.com/manyasachdeva27/Insurance-Premium-Prediction](https://github.com/manyasachdeva27/Finsage-AI-Financial-Assistant))
+[![Repo](https://img.shields.io/badge/View_Repo-Finsage-a78bfa?style=flat-square&logo=github)](https://github.com/manyasachdeva27/Finsage-AI-Financial-Assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛡️ Insurance Risk Predictor
 > *"Risk assessment in milliseconds, not weeks."*
 
 A production-ready **Random Forest** model wrapped in a FastAPI REST endpoint that returns risk category (high/medium/low) **with confidence scores** — deployed and callable in real time.
+
 **Stack:** `FastAPI` `Scikit-learn` `Random Forest` `Streamlit`
 
 [![Repo](https://img.shields.io/badge/View_Repo-Insurance_Predictor-a78bfa?style=flat-square&logo=github)](https://github.com/manyasachdeva27/Insurance-Premium-Prediction)
@@ -97,6 +103,7 @@ A production-ready **Random Forest** model wrapped in a FastAPI REST endpoint th
 > *"Watch less. Know more."*
 
 A RAG pipeline that ingests YouTube video transcripts and lets you have a **full conversation** about the video content — no scrubbing through hours of footage.
+
 **Stack:** `LangChain` `FAISS` `Python`
 
 [![Repo](https://img.shields.io/badge/View_Repo-YouTube_Chatbot-a78bfa?style=flat-square&logo=github)](https://github.com/manyasachdeva27/Youtube-chatbot-using-rag-pipeline-in-langchain)
@@ -139,9 +146,7 @@ Proposed pipeline: Text Normalization → Fuzzy Matching → **BERT contextual e
 
 ## 💼 Experience
 
-### Centilytics — Business Analyst Intern 
-
-
+### Centilytics — Business Analyst Intern
 
 ---
 
@@ -176,8 +181,6 @@ Proposed pipeline: Text Normalization → Fuzzy Matching → **BERT contextual e
 
 ---
 
-
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
@@ -188,9 +191,7 @@ Proposed pipeline: Text Normalization → Fuzzy Matching → **BERT contextual e
 | 🌟 | **Dean's List** — 10/10 SGPA, Bennett University |
 | 🤖 | **IBM Certified** — RAG and Agentic AI |
 
-
 </div>
-
 
 ---
 
