@@ -16,40 +16,6 @@
 
 ---
 
-## 🧬 Who am I?
-
-```python
-class Manya(AIEngineer):
-
-    def __init__(self):
-        self.name        = "Manya Sachdeva"
-        self.university  = "Bennett University, Greater Noida"
-        self.degree      = "B.Tech Computer Science & Engineering"
-
-    @property
-    def superpower(self):
-        return "Turning messy real-world data into AI that actually ships"
-
-    def tech_i_love(self):
-        return {
-            "AI/ML"   : ["RAG Pipelines", "NLP", "LLMs", "Prompt Engineering"],
-            "ML Eng"  : ["XGBoost", "Prophet", "Isolation Forest", "BERT"],
-            "Backend" : ["FastAPI", "LangChain", "FAISS", "Docker"],
-            "UI"      : ["Streamlit"],
-            "Research": ["Supply Chain AI", "Hinglish NLP", "Code-Mixed Text"]
-        }
-
-    def currently(self):
-        return [
-            "🔬 Wrapping up 2 research papers",
-            "🤖 Expanding Nova with multi-agent capabilities",
-            "📚 Deep-diving into Agentic AI & LLM fine-tuning",
-            "🎯 Hunting for summer internships & research collabs"
-        ]
-```
-
----
-
 ## 🚀 Projects
 
 <table>
