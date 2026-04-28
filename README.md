@@ -84,34 +84,13 @@ Answer Relevancy █████████████████████
 > *"Your bank statement has stories. Finsage reads them."*
 
 Built on **4,000+ real transactions**, Finsage forecasts your income and expenses, spots anomalies before they hurt you, and lets you chat with your own financial data in real time.
-
-**What makes it special:**
-- 📈 XGBoost + Prophet ensemble with walk-forward CV
-- 🚨 Isolation Forest for anomaly detection
-- 💬 Gemini-powered chatbot for natural language finance queries
-
 **Stack:** `XGBoost` `Prophet` `Gemini API` `Streamlit` `Isolation Forest`
 
-```
-MAPE (walk-forward CV)  ████████████████ ~7.8%
-Transactions analyzed   ████████████████ 4,000+
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
+[![Repo](https://img.shields.io/badge/View_Repo-Insurance_Predictor-a78bfa?style=flat-square&logo=github)]([https://github.com/manyasachdeva27/Insurance-Premium-Prediction](https://github.com/manyasachdeva27/Finsage-AI-Financial-Assistant))
 ### 🛡️ Insurance Risk Predictor
 > *"Risk assessment in milliseconds, not weeks."*
 
 A production-ready **Random Forest** model wrapped in a FastAPI REST endpoint that returns risk category (high/medium/low) **with confidence scores** — deployed and callable in real time.
-
-**What makes it special:**
-- ⚡ Sub-second API response time
-- 🎯 Class probability scores, not just labels
-- 🖥️ Streamlit UI for non-technical users
-
 **Stack:** `FastAPI` `Scikit-learn` `Random Forest` `Streamlit`
 
 [![Repo](https://img.shields.io/badge/View_Repo-Insurance_Predictor-a78bfa?style=flat-square&logo=github)](https://github.com/manyasachdeva27/Insurance-Premium-Prediction)
@@ -123,12 +102,6 @@ A production-ready **Random Forest** model wrapped in a FastAPI REST endpoint th
 > *"Watch less. Know more."*
 
 A RAG pipeline that ingests YouTube video transcripts and lets you have a **full conversation** about the video content — no scrubbing through hours of footage.
-
-**What makes it special:**
-- 🎬 Transcript-to-knowledge pipeline
-- 🔍 Semantic search over video content
-- 💬 Conversational memory across turns
-
 **Stack:** `LangChain` `FAISS` `Python`
 
 [![Repo](https://img.shields.io/badge/View_Repo-YouTube_Chatbot-a78bfa?style=flat-square&logo=github)](https://github.com/manyasachdeva27/Youtube-chatbot-using-rag-pipeline-in-langchain)
@@ -171,11 +144,9 @@ Proposed pipeline: Text Normalization → Fuzzy Matching → **BERT contextual e
 
 ## 💼 Experience
 
-### Centilytics — Business Analyst Intern *(Jun 2025 – Mar 2026)*
+### Centilytics — Business Analyst Intern 
 
-- 📋 Led **end-to-end PRD development** for *Travel Dil Se* — from client requirement gathering all the way to roadmap recommendations
-- 🔍 Benchmarked **9+ CRM and cloud platforms** — documented comparative insights in Zoho to streamline vendor selection
-- 🗺️ Drove feature gap analysis and feature prioritization for a live product
+
 
 ---
 
@@ -210,22 +181,7 @@ Proposed pipeline: Text Normalization → Fuzzy Matching → **BERT contextual e
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyasachdeva27&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyasachdeva27&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyasachdeva27&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="65%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyasachdeva27&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
@@ -236,21 +192,10 @@ Proposed pipeline: Text Normalization → Fuzzy Matching → **BERT contextual e
 | ⚡ | **Rank 33 / 600+ teams** — Smart BU Hackathon, Bennett University |
 | 🌟 | **Dean's List** — 10/10 SGPA, Bennett University |
 | 🤖 | **IBM Certified** — RAG and Agentic AI |
-| 🗄️ | **IBM Certified** — Databases & SQL for Data Science with Python |
-| 📊 | **Certified** — Text Mining & Analytics |
+
 
 </div>
 
----
-
-## 🎭 Positions of Responsibility
-
-> Because building AI isn't the only thing I do
-
-- 🏛️ **Deputy Minister of Alumni Relations** — SCSET Student Cabinet
-- 📣 **Sub-Head, PR & Outreach** — CodeChef BU Chapter  
-- 🎯 **Member** — Career Advancement Committee, SCSET
-- 📢 **Core Member, Internal Communications** — SCSET Student Cabinet
 
 ---
 
