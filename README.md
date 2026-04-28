@@ -4,14 +4,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=RAG+Pipelines+that+score+0.91+Faithfulness+%F0%9F%A7%A0;ML+models+with+%7E7.8%25+MAPE+on+real+financial+data+%F0%9F%92%B9;NLP+research+on+Hinglish+profanity+%26+code-switching+%F0%9F%94%AC;Ranked+33+out+of+600%2B+teams+at+a+national+hackathon+%E2%9A%A1;Always+building%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=RAG+Pipelines;Always+building%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-sachdevamanya92%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachdevamanya92@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manya_Sachdeva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manyasachdeva27)
 [![GitHub](https://img.shields.io/badge/GitHub-manyasachdeva27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manyasachdeva27)
-![Profile Views](https://komarev.com/ghpvc/?username=manyasachdeva27&color=a78bfa&style=for-the-badge&label=Profile+Views)
+
 
 </div>
 
@@ -52,7 +52,7 @@ class Manya(AIEngineer):
 
 ---
 
-## 🚀 Projects That Actually Ship
+## 🚀 Projects 
 
 <table>
 <tr>
@@ -69,11 +69,6 @@ Nova ingests PDFs & URLs, semantically chunks them, retrieves the most relevant 
 - 🔗 Multi-source retrieval — not just one doc at a time
 
 **Stack:** `LangChain` `FAISS` `Cohere` `Groq` `Ragas` `LangSmith`
-
-```
-Faithfulness     ████████████████████ 0.91
-Answer Relevancy █████████████████████ 0.94
-```
 
 [![Repo](https://img.shields.io/badge/View_Repo-Nova-a78bfa?style=flat-square&logo=github)](https://github.com/manyasachdeva27/Nova-AI-Research-Assistant)
 
